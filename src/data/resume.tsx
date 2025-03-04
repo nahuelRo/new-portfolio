@@ -149,7 +149,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/trasnporte.png",
+      image: "/transporte.png",
     },
     {
       title: "Hotelinking",
